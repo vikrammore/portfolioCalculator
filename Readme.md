@@ -1,3 +1,6 @@
+Problem: Portfolio Weight Calculator - Problem Statement (https://gist.github.com/rprabhat/3b8cc6e47a822d63b844e3d3d0d67ea7)
+
+
 To enter fund details, run the program from command line/console
 
 1. java -jar calculator-0.0.1-SNAPSHOT-jar-with-dependencies.jar / run mainMethod of App.java in Eclipse/Intellij
